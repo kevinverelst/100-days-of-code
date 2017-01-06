@@ -18,3 +18,12 @@
 **Link(s) to work**
 1. 
 
+### Day 3: Januari 6, Friday
+
+**Today's Progress**: Followed a guide on how to work with Observables in an ng2-application 
+
+**Thoughts** Shit is complicated 
+
+**Link(s) to work**
+1. [Guide](https://scotch.io/tutorials/angular-2-http-requests-with-observables)
+
