@@ -47,7 +47,7 @@ There also was a bug in the server which I fixed.
 - Created a test driven rest API with a JSON file mocked backend
 
 **Thoughts** I thought that the setup would be much more difficult but it seems it fairly simple.
-Gonna push a MongoDB under that rest API.
+Gonna push a MongoDB under that rest API. No, I'm gonna look at GraphQL
 
 **Link(s) to work**
 1. [ts-express](https://github.com/kevinverelst/ts-express)
