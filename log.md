@@ -28,16 +28,28 @@
 1. [Guide](https://scotch.io/tutorials/angular-2-http-requests-with-observables)
 
 
-### Day 4: Januari 7, Sunday
+### Day 4: Januari 8, Sunday
 
 **Today's Progress**: 
 - Fixed some errors in the put and post commands of my Observables guide project. 
 There also was a bug in the server which I fixed.
-- Started working on the express backend in typescript for my ng2-quiz
+- Starter working on the express backend in typescript for my ng2-quiz
 
-**Thoughts** I wanted to work with dummy data or firebase for my ng2-quiz, but I want complete control, so I decided to built my own backend with express in typescript.
+**Thoughts** I think I understand observables better now
 
 **Link(s) to work**
 1. [Quickstart](https://github.com/kevinverelst/quickstart)
 2. [ts-express](https://github.com/kevinverelst/ts-express) [Example](http://mherman.org/blog/2016/11/05/developing-a-restful-api-with-node-and-typescript/#.WHKR1bYrKJQ)
+
+### Day 5: Januari 9, Monday
+
+**Today's Progress**: 
+- Created a test driven rest API with a JSON file mocked backend
+
+**Thoughts** I thought that the setup would be much more difficult but it seems it fairly simple.
+Gonna push a MongoDB under that rest API.
+
+**Link(s) to work**
+1. [ts-express](https://github.com/kevinverelst/ts-express)
+
 
