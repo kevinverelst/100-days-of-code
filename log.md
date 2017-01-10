@@ -52,4 +52,12 @@ Gonna push a MongoDB under that rest API. No, I'm gonna look at GraphQL
 **Link(s) to work**
 1. [ts-express](https://github.com/kevinverelst/ts-express)
 
+### Day 6: Januari 10, Tuesday
 
+**Today's Progress**: Followed a guide on how to build a graphQL node server.
+
+**Thoughts** It's not crystal clear to me so, I'm gonna focus GraphQL a bit more in the coming days
+
+**Link(s) to work**
+1. [graphQL-nodejs](https://github.com/kevinverelst/grapQL-nodejs)
+2. [example](https://www.sitepoint.com/creating-graphql-server-nodejs-mongodb/)
