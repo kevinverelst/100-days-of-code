@@ -71,3 +71,13 @@ Gonna push a MongoDB under that rest API. No, I'm gonna look at GraphQL
 **Link(s) to work**
 1. [graphQL-nodejs](https://github.com/kevinverelst/grapQL-nodejs)
 2. [example](https://edgecoders.com/graphql-learn-by-doing-part-1-of-3-9b04cadeacfa#.9jwy3gtqj)
+
+### Day 8: Januari 12, Thursday
+
+**Today's Progress**: Followed part 2 of the guide and accessed github public API.
+
+**Thoughts** A good GraphQL servers could have great potential
+
+**Link(s) to work**
+1. [graphQL-nodejs](https://github.com/kevinverelst/grapQL-nodejs)
+2. [example](https://edgecoders.com/graphql-learn-by-doing-part-1-of-3-9b04cadeacfa#.9jwy3gtqj)
