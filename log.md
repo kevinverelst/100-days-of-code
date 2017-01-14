@@ -72,7 +72,7 @@ Gonna push a MongoDB under that rest API. No, I'm gonna look at GraphQL
 1. [graphQL-nodejs](https://github.com/kevinverelst/grapQL-nodejs)
 2. [example](https://edgecoders.com/graphql-learn-by-doing-part-1-of-3-9b04cadeacfa#.9jwy3gtqj)
 
-### Day 8: Januari 12, Thursday
+### Day 8: Januari 13, Friday
 
 **Today's Progress**: Followed part 2 of the guide and accessed github public API.
 
@@ -81,3 +81,13 @@ Gonna push a MongoDB under that rest API. No, I'm gonna look at GraphQL
 **Link(s) to work**
 1. [graphQL-nodejs](https://github.com/kevinverelst/grapQL-nodejs)
 2. [example](https://edgecoders.com/graphql-learn-by-doing-part-1-of-3-9b04cadeacfa#.9jwy3gtqj)
+
+### Day 9: Januari 14, Saturday
+
+**Today's Progress**: Trying to remember how to setup a local mongoDB but failing miserably. Following a guide on how to set it up.
+
+**Thoughts** 2 years have gone by and i remember little of mongoDB. What has become of me?
+
+**Link(s) to work**
+2. [CRUD application with node MongoDB and express](https://zellwk.com/blog/crud-express-mongodb/)
+
