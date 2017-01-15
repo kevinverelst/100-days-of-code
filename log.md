@@ -89,5 +89,14 @@ Gonna push a MongoDB under that rest API. No, I'm gonna look at GraphQL
 **Thoughts** 2 years have gone by and i remember little of mongoDB. What has become of me?
 
 **Link(s) to work**
-2. [CRUD application with node MongoDB and express](https://zellwk.com/blog/crud-express-mongodb/)
+1. [CRUD application with node MongoDB and express](https://zellwk.com/blog/crud-express-mongodb/)
+
+### Day 10: Januari 15, Sunday
+
+**Today's Progress**: Began from scratch with a TDD express Node MongoDB es5 server.
+
+**Thoughts** I have gotten so used to writing Typescript that I'm gonna rewrite my server and unit tests in TS
+
+**Link(s) to work**
+1. [TDD TS mongodb server](http://mherman.org/blog/2016/11/05/developing-a-restful-api-with-node-and-typescript/#.WHtzxbYrKJQ)
 
