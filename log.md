@@ -100,3 +100,12 @@ Gonna push a MongoDB under that rest API. No, I'm gonna look at GraphQL
 **Link(s) to work**
 1. [TDD TS mongodb server](http://mherman.org/blog/2016/11/05/developing-a-restful-api-with-node-and-typescript/#.WHtzxbYrKJQ)
 
+### Day 11: Januari 16, Monday
+
+**Today's Progress**: Created the first unit test 
+
+**Thoughts** I like typescript a lot
+
+**Link(s) to work**
+1. [TDD TS mongodb server](http://mherman.org/blog/2016/11/05/developing-a-restful-api-with-node-and-typescript/#.WHtzxbYrKJQ)
+
