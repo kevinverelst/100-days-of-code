@@ -109,3 +109,13 @@ Gonna push a MongoDB under that rest API. No, I'm gonna look at GraphQL
 **Link(s) to work**
 1. [TDD TS mongodb server](http://mherman.org/blog/2016/11/05/developing-a-restful-api-with-node-and-typescript/#.WHtzxbYrKJQ)
 
+### Day 12: Januari 17, Tuesday
+
+**Today's Progress**: Created unit tests and a GET endpoint for the questions API
+
+**Thoughts** It seems sending a 404 really throws an error and doesn't resolves the request but rejects it
+
+**Link(s) to work**
+1. [ng2-quiz-server](https://github.com/kevinverelst/ng2-quiz-server
+2. [TDD TS mongodb server](http://mherman.org/blog/2016/11/05/developing-a-restful-api-with-node-and-typescript/#.WHtzxbYrKJQ)
+
