@@ -119,3 +119,13 @@ Gonna push a MongoDB under that rest API. No, I'm gonna look at GraphQL
 1. [ng2-quiz-server](https://github.com/kevinverelst/ng2-quiz-server
 2. [TDD TS mongodb server](http://mherman.org/blog/2016/11/05/developing-a-restful-api-with-node-and-typescript/#.WHtzxbYrKJQ)
 
+### Day 13: Januari 18, Wednesday
+
+**Today's Progress**: Created config files and mongoDB connection
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [ng2-quiz-server](https://github.com/kevinverelst/ng2-quiz-server
+2. [TDD TS mongodb server](http://mherman.org/blog/2016/11/05/developing-a-restful-api-with-node-and-typescript/#.WHtzxbYrKJQ)
+
