@@ -129,3 +129,11 @@ Gonna push a MongoDB under that rest API. No, I'm gonna look at GraphQL
 1. [ng2-quiz-server](https://github.com/kevinverelst/ng2-quiz-server
 2. [TDD TS mongodb server](http://mherman.org/blog/2016/11/05/developing-a-restful-api-with-node-and-typescript/#.WHtzxbYrKJQ)
 
+### Day 14: Januari 20, Friday
+
+**Today's Progress**: Pulled in firebase to be my backend in my express server
+
+**Thoughts** I thought I knew firebase. I don't.
+
+**Link(s) to work**
+1. [ng2-quiz-server](https://github.com/kevinverelst/ng2-quiz-server
