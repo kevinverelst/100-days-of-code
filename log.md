@@ -137,3 +137,14 @@ Gonna push a MongoDB under that rest API. No, I'm gonna look at GraphQL
 
 **Link(s) to work**
 1. [ng2-quiz-server](https://github.com/kevinverelst/ng2-quiz-server
+
+
+### Day 15: Januari 21, Saturday
+
+**Today's Progress**: Created the first route to post questions
+
+**Thoughts** Debugging a node application works great with node-inspector but it's a hassle to constantly stop and start the inspector. Gonna make a watch script for it.
+Or maybe there is an easier way to debug an express application. 
+
+**Link(s) to work**
+1. [ng2-quiz-server](https://github.com/kevinverelst/ng2-quiz-server
