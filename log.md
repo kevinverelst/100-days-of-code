@@ -148,3 +148,13 @@ Or maybe there is an easier way to debug an express application.
 
 **Link(s) to work**
 1. [ng2-quiz-server](https://github.com/kevinverelst/ng2-quiz-server
+
+### Day 16: Januari 23, Monday
+
+**Today's Progress**: Trying to create services and routers with interfaces
+
+**Thoughts** Thought to create a typescript service to ensure correct services but having trouble getting it correct with the generic type
+
+**Link(s) to work**
+1. [ng2-quiz-server](https://github.com/kevinverelst/ng2-quiz-server
+
