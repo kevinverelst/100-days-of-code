@@ -158,3 +158,12 @@ Or maybe there is an easier way to debug an express application.
 **Link(s) to work**
 1. [ng2-quiz-server](https://github.com/kevinverelst/ng2-quiz-server
 
+### Day 17: Januari 24, Wednesday
+
+**Today's Progress**: rebuilt the server for finding the bug. My firebase structure isn't right
+
+**Thoughts** I'm an idiot
+
+**Link(s) to work**
+1. [ng2-quiz-server](https://github.com/kevinverelst/ng2-quiz-server
+
