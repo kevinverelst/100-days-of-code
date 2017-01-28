@@ -158,7 +158,7 @@ Or maybe there is an easier way to debug an express application.
 **Link(s) to work**
 1. [ng2-quiz-server](https://github.com/kevinverelst/ng2-quiz-server
 
-### Day 17: Januari 24, Wednesday
+### Day 17: Januari 25, Wednesday
 
 **Today's Progress**: rebuilt the server for finding the bug. My firebase structure isn't right
 
@@ -166,4 +166,15 @@ Or maybe there is an easier way to debug an express application.
 
 **Link(s) to work**
 1. [ng2-quiz-server](https://github.com/kevinverelst/ng2-quiz-server
+
+
+### Day 18: Januari 28, Saturday
+
+**Today's Progress**: Figured out I need to use push instead of set to add items to my firebase database
+
+**Thoughts** I regret the amount of time I can spare for this. I would make much greater progress if i could work for a couple hours straight.
+
+**Link(s) to work**
+1. [ng2-quiz-server](https://github.com/kevinverelst/ng2-quiz-server
+
 
