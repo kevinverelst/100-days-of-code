@@ -116,7 +116,7 @@ Gonna push a MongoDB under that rest API. No, I'm gonna look at GraphQL
 **Thoughts** It seems sending a 404 really throws an error and doesn't resolves the request but rejects it
 
 **Link(s) to work**
-1. [ng2-quiz-server](https://github.com/kevinverelst/ng2-quiz-server
+1. [ng2-quiz-server](https://github.com/kevinverelst/ng2-quiz-server)
 2. [TDD TS mongodb server](http://mherman.org/blog/2016/11/05/developing-a-restful-api-with-node-and-typescript/#.WHtzxbYrKJQ)
 
 ### Day 13: Januari 18, Wednesday
@@ -126,7 +126,7 @@ Gonna push a MongoDB under that rest API. No, I'm gonna look at GraphQL
 **Thoughts** 
 
 **Link(s) to work**
-1. [ng2-quiz-server](https://github.com/kevinverelst/ng2-quiz-server
+1. [ng2-quiz-server](https://github.com/kevinverelst/ng2-quiz-server)
 2. [TDD TS mongodb server](http://mherman.org/blog/2016/11/05/developing-a-restful-api-with-node-and-typescript/#.WHtzxbYrKJQ)
 
 ### Day 14: Januari 20, Friday
@@ -136,7 +136,7 @@ Gonna push a MongoDB under that rest API. No, I'm gonna look at GraphQL
 **Thoughts** I thought I knew firebase. I don't.
 
 **Link(s) to work**
-1. [ng2-quiz-server](https://github.com/kevinverelst/ng2-quiz-server
+1. [ng2-quiz-server](https://github.com/kevinverelst/ng2-quiz-server)
 
 
 ### Day 15: Januari 21, Saturday
@@ -147,7 +147,7 @@ Gonna push a MongoDB under that rest API. No, I'm gonna look at GraphQL
 Or maybe there is an easier way to debug an express application. 
 
 **Link(s) to work**
-1. [ng2-quiz-server](https://github.com/kevinverelst/ng2-quiz-server
+1. [ng2-quiz-server](https://github.com/kevinverelst/ng2-quiz-server)
 
 ### Day 16: Januari 23, Monday
 
@@ -156,7 +156,7 @@ Or maybe there is an easier way to debug an express application.
 **Thoughts** Thought to create a typescript service to ensure correct services but having trouble getting it correct with the generic type
 
 **Link(s) to work**
-1. [ng2-quiz-server](https://github.com/kevinverelst/ng2-quiz-server
+1. [ng2-quiz-server](https://github.com/kevinverelst/ng2-quiz-server)
 
 ### Day 17: Januari 25, Wednesday
 
@@ -165,8 +165,7 @@ Or maybe there is an easier way to debug an express application.
 **Thoughts** I'm an idiot
 
 **Link(s) to work**
-1. [ng2-quiz-server](https://github.com/kevinverelst/ng2-quiz-server
-
+1. [ng2-quiz-server](https://github.com/kevinverelst/ng2-quiz-server)
 
 ### Day 18: Januari 28, Saturday
 
@@ -175,6 +174,14 @@ Or maybe there is an easier way to debug an express application.
 **Thoughts** I regret the amount of time I can spare for this. I would make much greater progress if i could work for a couple hours straight.
 
 **Link(s) to work**
-1. [ng2-quiz-server](https://github.com/kevinverelst/ng2-quiz-server
+1. [ng2-quiz-server](https://github.com/kevinverelst/ng2-quiz-server)
 
+### Day 19: Januari 30, Mondayy
+
+**Today's Progress**: I started a slack russian roulette bot because there was need for a daily 'volunteer' in our dev team to take on support tickets
+
+**Thoughts** The botkit and slack API are just a pleasure to work with. I'm amazed with what you can do with just a few lines of code.
+
+**Link(s) to work**
+1. [russian-roulette-slackbot](https://github.com/kevinverelst/russian-roulette-slackbot)
 
